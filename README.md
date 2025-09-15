@@ -42,7 +42,7 @@ It demonstrates the design, configuration, and implementation of multiple **netw
 
 ## 📂 Files
 
-- `Project Network Security.pkt` → Cisco Packet Tracer project file  
+- `Summer Intern Final Project NETSEC_LAST.pkt` → Cisco Packet Tracer project file  
 
 ---
 
