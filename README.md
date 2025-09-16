@@ -1,5 +1,7 @@
 # 🔐 NTI Network Security Project
 
+![Network Project](Network%20Project.png)
+
 This project was developed as part of the **NTI Summer Internship – Network Security Track (2025)**.  
 It demonstrates the design, configuration, and implementation of multiple **networking and security technologies** using **Cisco Packet Tracer**.
 
